@@ -151,7 +151,7 @@ body {
 			    animation: intro_titles 8s 1  forwards linear;
 	-webkit-animation-delay: 20s;
 			    animation-delay: 20s;}
-.second_subtitle p { font-size: 4vw; font-family: 'Lato-HairItalic'; letter-spacing: 0.08em; color: #fff; }
+.second_subtitle p { font-size: 4vw; font-family: 'lato-light'; letter-spacing: 0.08em; color: #fff; }
 
 }
 
