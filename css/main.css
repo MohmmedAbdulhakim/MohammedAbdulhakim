@@ -9,8 +9,8 @@
 }
 
 /* Webfont: Lato-Hairline */@font-face {
-    font-family: 'Lato-HairItalic';
-    src:  url('../my_fonts/Lato-lineItalic.ttf') format('truetype');
+    font-family: 'Lato-LightItalic';
+    src:  url('../my_fonts/Lato-LightItalic.ttf') format('truetype');
 }
 
 /* Webfont: Lato-light */@font-face {
@@ -114,7 +114,7 @@ body {
 	-webkit-animation-delay: 10s;
 			    animation-delay: 10s;
 }
-.first_subtitle p { font-size: 5vw; font-family: 'lato-light'; 0.08em; color: #fff; }
+.first_subtitle p { font-size: 5vw; font-family: 'Lato-LightItalic'; 0.08em; color: #fff; }
 .first_subtitle p:first-letter { text-transform: uppercase; }
 
 /* Settings for second title, 'A Robert Zemeckis Film' */
@@ -151,7 +151,7 @@ body {
 			    animation: intro_titles 8s 1  forwards linear;
 	-webkit-animation-delay: 20s;
 			    animation-delay: 20s;}
-.second_subtitle p { font-size: 4vw; font-family: 'lato-light'; letter-spacing: 0.08em; color: #fff; }
+.second_subtitle p { font-size: 4vw; font-family: 'Lato-LightItalic'; letter-spacing: 0.08em; color: #fff; }
 
 }
 
